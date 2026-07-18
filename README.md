@@ -1,2 +1,2 @@
 # OTT-Platform-Analystics
-Interactive Tableau dashboard analyzing OTT platform data, including content distribution, genres, ratings, release trends, and country-wise insights. Built using data visualization techniques to identify patterns and support data-driven decisions.
+Developed an interactive Tableau dashboard to analyze OTT platform content. The dashboard provides insights into content type, genre distribution, ratings, release year trends, country-wise availability, and overall content statistics using interactive filters and visualizations.
