@@ -8,9 +8,10 @@ Developed an interactive Tableau dashboard to analyze OTT platform content. The 
 
 ## Dashboard Highlights
 
-- Content Type Distribution (Movies vs TV Shows)
-- Genre Analysis
-- Release Year Trends
-- Country-wise Content Availability
-- Rating Distribution
-- Interactive Filters for dynamic exploration
+- Interactive Tableau dashboard with dynamic filters.
+- KPI cards displaying Total Titles, Movies, TV Shows, Directors, and Genres.
+- Top 10 genres by number of titles.
+- Content rating distribution analysis.
+- Movies vs TV Shows distribution.
+- Country-wise content availability using a map visualization.
+- Release year trend analysis.
