@@ -23,7 +23,7 @@ An interactive Tableau project that analyzes content across popular OTT platform
 ![Netflix Dashboard](netflix_dashboard.png)
 
 ### Amazon Prime Video Dashboard
-![Amazon Prime Dashboard](amazon_prime_dashboard.png)
+![Amazon Prime Dashboard](amazon_prime_analytics.png)
 
 ## 📌 Key Insights
 - Content distribution by Movies and TV Shows
