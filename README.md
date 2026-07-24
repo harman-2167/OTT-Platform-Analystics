@@ -4,7 +4,11 @@ Developed an interactive Tableau dashboard to analyze OTT platform content. The 
 
 # OTT Platform Analysis Dashboard
 
+## Amazon_prime_dashboard
 ![Amazon Prime Dashboard](amazon_prime_analytics.png)
+
+## Netflix_prime_dashboard
+![Netflix_dashboard](netflix_dashboard.png)
 
 ## Dashboard Highlights
 
