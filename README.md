@@ -1,21 +1,35 @@
-# OTT-Platform-Analytics
+# 🎬 OTT Platform Analytics
 
-Developed an interactive Tableau dashboard to analyze OTT platform content. The dashboard provides insights into content type, genre distribution, ratings, release year trends, country-wise availability, and overall content statistics using interactive filters and visualizations.
+An interactive Tableau project that analyzes content across popular OTT platforms. This repository aims to provide insights into movies and TV shows using interactive dashboards and visualizations.
 
-# OTT Platform Analysis Dashboard
+## 📊 Current Dashboards
+- ✅ Netflix Data Analysis
+- ✅ Amazon Prime Video Analysis
 
-## Amazon_prime_dashboard
-![Amazon Prime Dashboard](amazon_prime_analytics.png)
+## 🚧 Coming Soon
+- Hotstar Analysis
+- AppleTV Analysis
+- Bollywood Analysis
+- Hollywood Analysis
 
-## Netflix_prime_dashboard
-![Netflix_dashboard](netflix_dashboard.png)
+## 🛠️ Tools Used
+- Tableau
+- Microsoft Excel
+- Data Cleaning & Data Visualization
 
-## Dashboard Highlights
+## 📸 Dashboard Preview
 
-- Interactive Tableau dashboard with dynamic filters.
-- KPI cards displaying Total Titles, Movies, TV Shows, Directors, and Genres.
-- Top 10 genres by number of titles.
-- Content rating distribution analysis.
-- Movies vs TV Shows distribution.
-- Country-wise content availability using a map visualization.
-- Release year trend analysis.
+### Netflix Dashboard
+![Netflix Dashboard](netflix_dashboard.png)
+
+### Amazon Prime Video Dashboard
+![Amazon Prime Dashboard](amazon_prime_dashboard.png)
+
+## 📌 Key Insights
+- Content distribution by Movies and TV Shows
+- Release year trends
+- Ratings analysis
+- Country-wise content availability
+- Cast and director insights
+
+> 🚀 More OTT platform dashboards and comparative analysis will be added soon.
